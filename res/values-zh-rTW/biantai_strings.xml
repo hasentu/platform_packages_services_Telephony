@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+                         $$$$$$$$$$$$$$$
+                      $$$$$$        $$  $$$$
+                     $$$             $     $$$
+                   $$$$$$$          $$$      $$$
+                  $$$$ $$$$        $$          $$$
+                 $$$      $$       $            $$$
+     FFFF       $$$$     $$                $$$    $$
+    UUUUUU     $$$  $$$$$$              $$$$$$$$$  $$
+               $$$                     $$     $$$  $$
+               $$    $$$$$$$$$         $$      $$  $$
+                $$ $$  $$$ $$$$$$$$$     $$$$$$    $$
+                 $ $$      $$$  $$  $$$           $$
+  $$$             $$$              $$  $$        $$$
+   $$$$             $$$$$$$            $$      $$$
+ $$$$$$$$$$$         $$$  $$$$$       $$     $$$$
+    $$$  $$$$$$$$$   $$$     $$$$$   $$  $$$$$
+  $$$$        $$$$$$$$$$$$$$$    $$$$$$$$$$$$
+ $$$$               $$$     $$$$$$$$$$$
+      $$           $$$            $$$
+        $$        $$$            $$$
+        $$$$$$$$$$$$$$$$$$       $$$
+     $$$$$$$$     $$$$$$$$$$$$$  $$
+        $$$$      $$$            $$
+       $$$        $$            $$$
+                  $$            $$$
+                  $$$$$$$$$$$$$$$$$
+                   $$$$$$$$$$$$$$$
+                     $$$       $$$
+                    $$$         $$$
+                   $$$           $$$
+                  $$$             $$$
+                 $$$               $$$
+                $$$                 $$$
+               $$$                   $$$
+            $$$$$                    $$$$
+           $$$$$$                    $$$
+                                   $$$$
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Advanced settings -->
+    <!-- 高级设置 -->
+    <string name="advanced_setting">進階</string>
+    <string name="incall_vibration">來電振動</string>
+    <string name="vibrate_outgoing">接聽振動</string>
+    <string name="vibrate_call_waiting">等待振動</string>
+    <string name="vibrate_hangup">掛線振動</string>
+    <string name="vibrate_45">每分鐘振動</string>
+    <string name="vibrate_45_sum">去電期間每分鐘的45秒時振動</string>
+
+    <!-- Incoming call in background -->
+    <!-- 后台来电 -->
+    <string name="bg_incall">後臺來電</string>
+    <string name="bg_incall_summary">前臺有應用活動時,來電將保持在後臺,同時顯示來電通知及鈴聲</string>
+
+    <!-- Setting title for flip action setting -->
+    <!-- 翻转操作设置的条目标题 -->
+    <string name="flip_action_title">反轉操作</string>
+    <!-- Dialog title for flip action setting -->
+    <!-- 翻转操作设置的窗口标题 -->
+    <string name="flip_action_dialog_title">反轉Nexus以\u2026</string>
+    <!-- Setting summary for flip action setting -->
+    <!-- 翻转操作设置的总结文字 -->
+    <string name="flip_action_summary">反轉Nexus將<xliff:g id="action">%s</xliff:g></string>
+    <!-- Values for flip action setting array entries -->
+    <!-- 翻转操作设置array中的条目 -->
+    <string name="entry_mute_call">靜音來電</string>
+    <string name="entry_decline_call">掛斷來電</string>
+    <string name="entry_do_nothing">沒啥反應</string>
+    <string name="summary_mute_call">靜音來電</string>
+    <string name="summary_decline_call">掛斷來電</string>
+    <string name="summary_do_nothing">沒啥反應</string>
+
+</resources>
